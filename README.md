@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react spring boot**
 
-- 👨‍💻 All of my projects are available at [animeshxoxo.tk](animeshxoxo.tk)
+- 👨‍💻 All of my projects are available at [animeshxoxo.tk](animesh.lol)
 
 - 📫 How to reach me **ac04@duck.com**
 <br>
