@@ -4,11 +4,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=animeshchaudhri&show_icons=true&bg_color=00000000"> </img>
 
 
-- 🔭 I’m currently working on **google clone**
+- 🔭 I’m currently working on **some tauri projects**
 
-- 🌱 I’m currently learning **react spring boot**
+- 🌱 I’m currently learning **Cpp **
 
-- 👨‍💻 All of my projects are available at [animesh.lol](https://animesh.lol)
+- 👨‍💻 All of my projects are available at [animesh.lol](https://animesh.us)
 
 - 📫 How to reach me **ac04@duck.com**
 <br>
