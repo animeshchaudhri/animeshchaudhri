@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Cpp **
 
-- 👨‍💻 All of my projects are available at [animesh.lol](https://animesh.us)
+- 👨‍💻 All of my projects are available at [animesh.us](https://animesh.us)
 
 - 📫 How to reach me **ac04@duck.com**
 <br>
