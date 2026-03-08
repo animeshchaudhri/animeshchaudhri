@@ -5,7 +5,6 @@ Full-Stack Developer • Rust • AI • Distributed Systems
 
 <br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=animeshchaudhri&show_icons=true&bg_color=00000000&hide_border=true" />
 
 <p>
 Based in Pune, India.
