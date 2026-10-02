@@ -71,3 +71,10 @@ Some of the areas I've contributed to and built projects in:
 
 **Rustman**
 A lightweight, native Postman alternative written in Rust. Supports
+
+
+<br><br>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=animeshchaudhri&style=flat-square"/>
+</p>
